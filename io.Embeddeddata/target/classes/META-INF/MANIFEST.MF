@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Abhishree Khangar
+Build-Jdk: 11.0.2
+Implementation-Title: io.Embeddeddata
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: course-api
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/io.Embeddeddata
+Created-By: Maven Integration for Eclipse
+
